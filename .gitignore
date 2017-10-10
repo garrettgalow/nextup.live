@@ -2,4 +2,4 @@
 build
 *.xcodeproj/*
 !*.xcodeproj/project.pbxproj
-~*.xcodeproj/xcsharedata
+!*.xcodeproj/xcsharedata
